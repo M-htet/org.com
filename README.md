@@ -1,2 +1,2 @@
 # org.com
-This is first version for awewayorg web
+We are here to help people.
